@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rdmdevportfolio-react.v2/static/css/main.dd4eca0d.css",
+    "main.js": "/rdmdevportfolio-react.v2/static/js/main.7453d3b1.js",
+    "static/media/nixon.png": "/rdmdevportfolio-react.v2/static/media/nixon.9741d87025895fa35e02.png",
+    "static/media/me.jpg": "/rdmdevportfolio-react.v2/static/media/me.6e2bb4d95e31966be254.jpg",
+    "static/media/project-1.png": "/rdmdevportfolio-react.v2/static/media/project-1.fbb1e2bac296ed2e38bc.png",
+    "static/media/bg.jpg": "/rdmdevportfolio-react.v2/static/media/bg.a06b5839662c0202ebfc.jpg",
+    "static/media/code.jpg": "/rdmdevportfolio-react.v2/static/media/code.2639a691d3f53b40b8ba.jpg",
+    "static/media/Rachel_Marron_Product_Leader.pdf": "/rdmdevportfolio-react.v2/static/media/Rachel_Marron_Product_Leader.6ce0625ee7ecba41fc21.pdf",
+    "static/media/sus-clothing-co.jpg": "/rdmdevportfolio-react.v2/static/media/sus-clothing-co.0c7b134d4bd1a023b924.jpg",
+    "static/media/code-quiz.png": "/rdmdevportfolio-react.v2/static/media/code-quiz.46b69a6a7f68a3988ca9.png",
+    "static/media/projectBg.jpg": "/rdmdevportfolio-react.v2/static/media/projectBg.ca20e427410969fd8d24.jpg",
+    "static/media/me2.webp": "/rdmdevportfolio-react.v2/static/media/me2.99a6faf8d82388708979.webp",
+    "index.html": "/rdmdevportfolio-react.v2/index.html",
+    "main.dd4eca0d.css.map": "/rdmdevportfolio-react.v2/static/css/main.dd4eca0d.css.map",
+    "main.7453d3b1.js.map": "/rdmdevportfolio-react.v2/static/js/main.7453d3b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd4eca0d.css",
+    "static/js/main.7453d3b1.js"
+  ]
+}
