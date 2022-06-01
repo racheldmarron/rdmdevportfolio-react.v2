@@ -2,7 +2,7 @@
 Development Portfolio for Rachel Marron- Web/App Manager & QA Engineer
 
 ## Link to deployed application 
-<a href="https://racheldmarron.github.io/rdmdevportfolio-react/">https://racheldmarron.github.io/rdmdevportfolio-react/</a>
+<a href="https://racheldmarron.github.io/rdmdevportfolio-react.v2/">https://racheldmarron.github.io/rdmdevportfolio-react.v2/</a>
 
 ## Overview 
 A professional portfolio using REACT and Tailwind CSS. This website showcases the development work I have done through the UCI Coding Bootcamp. You are able to view my projects, learn about me, and download my resume. 
@@ -43,10 +43,11 @@ GIVEN a single-page application portfolio for a web developer</li>
 
 ## Visual References
 
-![](./assets/images/portfolio-2.png)
 ![](./assets/images/portfolio-1.png)
+![](./assets/images/portfolio-2.png)
 ![](./assets/images/portfolio-3.png)
 ![](./assets/images/portfolio-4.png)
+![](./assets/images/portfolio-5.png)
 
 
 ## Contributors
@@ -60,7 +61,8 @@ Jordan Hessler - Outside Tutor</li>
 <li><a href="https://www.youtube.com/watch?v=bmpI252DmiI">REACT portfolio tutorial with animations</a></li>
 <li><a href="https://www.youtube.com/watch?v=Vp6GC3jKG20">Build & Deploy a professional portfolio with REACT and TailwindCSS</a></li>
 <li><a href="https://www.youtube.com/watch?v=1eXQJYL1s1k">Typewriter effect in ReactJS Tutorial</a></li>
-<li><a href="https://www.youtube.com/watch?v=nbHlVrkA0wk">How to add and download PDF In React.js</a></li></ul>
+<li><a href="https://www.youtube.com/watch?v=nbHlVrkA0wk">How to add and download PDF In React.js</a></li>
+<li><a href="https://www.youtube.com/watch?v=F8s4Ng-re0E&t=324s">How to Deploy React App to Giuthub Pages</a></li></ul>
 
 ## License
 
